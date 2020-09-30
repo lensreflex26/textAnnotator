@@ -2,7 +2,7 @@
 
 Small and simple JS tool for making powerful underline, highlight and strike text annotations.
 
-See live demo at the [pages](http://neisbut.github.io/textAnnotator/)
+check live demo at the [pages](http://neisbut.github.io/textAnnotator/)
 
 ## Quick Examples
 
@@ -46,7 +46,7 @@ tvs.AnnotatorDictionary.svgTemplates['custom'] = new tvs.Template(new tvs.SvgTem
 
 ## Is this doc full?
 
-Sorry, but no. There is many hidden features which is not documented still (hope it will be soon). Not documented features:
+Sorry, but no. There are many hidden features which are not documented still (hope it will be soon). Not documented features:
 * IE6+ support possible (but not implemented yet)
 * complex templates supported (when template can contain parts with specified width, different and formats inside)
 * Supported apply methods: repeat, stretch, swag, height, * and all possible css values
